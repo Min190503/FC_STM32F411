@@ -1,0 +1,2 @@
+../Core/Services/flight_core.c:10:6:FlightCore_Init	8	static
+../Core/Services/flight_core.c:18:6:FlightCore_Task	24	static

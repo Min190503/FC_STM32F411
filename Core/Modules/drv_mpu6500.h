@@ -6,6 +6,8 @@
 
 
 // --- Định nghĩa thanh ghi MPU6500 ---
+#define MPU6500_REG_SMPLRT_DIV	0x19
+#define MPU6500
 #define MPU6500_REG_WHO_AM_I    0x75
 
 // Giá trị WHO_AM_I mặc định của MPU6500 thường là 0x70
